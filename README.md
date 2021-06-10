@@ -5,7 +5,7 @@
 
 
 ### Eu sou a Gabriella, ou Gabi✨ E uma futura desenvolvedora de software 👩‍💻
-🏝 Eu sou de São Paulo, brasil<br>
+🏝 Eu sou de São Paulo, Brasil<br>
 💜 Apaixonado por front-end e design<br>
 🛤 Aprendendo mais sobre back-end<br>
 📚 Atualmente sou estudante de Análise e desenvolvimento de sistemas<br>
