@@ -4,9 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriella-moraes-a49338206/)](https://www.linkedin.com/in/gabriella-moraes-a49338206/)
 
 
-### Eu sou a Gabriella, ou Gabi✨ E uma futura desenvolvedora de software 👩‍💻
+### Eu sou a Gabriella, ou Gabi✨ e uma futura desenvolvedora de software 👩‍💻
 🏝 Eu sou de São Paulo, Brasil<br>
-💜 Apaixonado por front-end e design<br>
+💜 Apaixonada por front-end e design<br>
 🛤 Aprendendo mais sobre back-end<br>
 📚 Atualmente sou estudante de Análise e desenvolvimento de sistemas<br>
 😄 Falo Inglês e Português <br>
