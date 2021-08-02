@@ -1,9 +1,5 @@
 # Eai, é a Gabriella Moraes👩‍💻👋 
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriella-moraes-a49338206/)](https://www.linkedin.com/in/gabriella-moraes-a49338206/)
-
-
 ### Eu sou a Gabriella, ou Gabi✨ e uma futura desenvolvedora de software 👩‍💻
 🏝 Eu sou de São Paulo, Brasil<br>
 💜 Apaixonada por front-end e design<br>
@@ -33,7 +29,7 @@
   <a href="https://www.linkedin.com/in/gabriella-moraes-a49338206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/bimoraes/bimraes/blob/output/github-contribution-grid-snake.svg)
  
  * Obrigado pela visita.
 
