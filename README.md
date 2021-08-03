@@ -5,7 +5,6 @@
 💜 Apaixonada por front-end e design<br>
 🛤 Aprendendo mais sobre back-end<br>
 📚 Atualmente sou estudante de Desenvolvimento de Software Multiplataforma<br>
-😄 Falo Inglês e Português <br>
 🕹 No meu tempo livre gosto de jogar, assistir séries e cozinhar.
 
  <div>
