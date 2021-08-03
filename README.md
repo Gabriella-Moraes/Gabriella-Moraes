@@ -1,4 +1,4 @@
-# Eai, é a Gabriella Moraes👩‍💻👋 
+# Olá, tudo bem ?👩‍💻👋 
 
 ### Eu sou a Gabriella, ou Gabi✨ e uma futura desenvolvedora de software 👩‍💻
 🏝 Eu sou de São Paulo, Brasil<br>
