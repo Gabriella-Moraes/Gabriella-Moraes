@@ -1,6 +1,6 @@
 # Olá, tudo bem ?👩‍💻👋 
 
-### Eu sou a Gabriella, ou Gabi✨ e uma futura desenvolvedora de software 👩‍💻
+### Eu sou a Gabriella, ou Gabi✨👩‍💻
 🏝 Eu sou de São Paulo, Brasil<br>
 💜 Apaixonada por front-end e design<br>
 🛤 Aprendendo mais sobre back-end<br>
