@@ -8,9 +8,9 @@
 🕹 No meu tempo livre gosto de jogar, assistir séries e anime.
 
  <div>
-  <a href="https://github.com/bimoraes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bimoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimoraes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Gabriella-Moraes">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriella-Moraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriella-Moraes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/gabriella-moraes-a49338206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-  ![Snake animation](https://github.com/bimoraes/bimoraes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gabriella-Moraes/Gabriella-Moraes/blob/output/github-contribution-grid-snake.svg)
  
  * Obrigado pela visita.
 
