@@ -1,7 +1,7 @@
 # OIIIIII, tudo bem ?👩‍💻👋✨
 
 
-<img alt="Gabi" height="500em" src="https://cdn.discordapp.com/attachments/812816331824168963/943642300247072848/Gabriella1.gif">
+<img alt="Gabi" height="400em" src="https://cdn.discordapp.com/attachments/812816331824168963/943642300247072848/Gabriella1.gif">
 
  <div>
   <a href="https://github.com/Gabriella-Moraes">
@@ -16,6 +16,7 @@
   <img align="center" alt="Gabi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Gabi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Gabi-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+ </div>
  
  ##
  
