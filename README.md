@@ -1,7 +1,11 @@
-# OIIIIII, tudo bem ?👩‍💻👋✨
+# OIIIIII, tudo bem ?👩‍💻👋 
 
-
-<img alt="Gabi" height="400em" src="https://cdn.discordapp.com/attachments/812816331824168963/943642300247072848/Gabriella1.gif">
+### Eu sou a Gabriella, ou Gabi✨👩‍💻
+🏝 Eu sou de São Paulo, Brasil<br>
+💜 Apaixonada por front-end e design<br>
+🛤 Aprendendo mais sobre back-end<br>
+📚 Atualmente sou estudante de Desenvolvimento de Software Multiplataforma<br>
+🕹 No meu tempo livre gosto de jogar, assistir séries e anime.
 
  <div>
   <a href="https://github.com/Gabriella-Moraes">
@@ -16,7 +20,9 @@
   <img align="center" alt="Gabi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Gabi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Gabi-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
- </div>
+  <img align="right" alt="Gabi" height="150" width="150" src="https://cdn.discordapp.com/attachments/812816331824168963/901470611346427954/picasion.com_bc2dfda7314afcb4ce5cf4be4f89bd51.gif">
+  <img align="right" alt="Gabi" height="150" width="150" src="https://cdn.discordapp.com/attachments/812816331824168963/943642300247072848/Gabriella1.gif">
+</div>
  
  ##
  
