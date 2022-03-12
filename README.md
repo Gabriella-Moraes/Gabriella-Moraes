@@ -21,7 +21,6 @@
   <img align="center" alt="Gabi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Gabi-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="right" alt="Gabi" height="150" width="150" src="https://cdn.discordapp.com/attachments/812816331824168963/901470611346427954/picasion.com_bc2dfda7314afcb4ce5cf4be4f89bd51.gif">
-  <img align="right" alt="Gabi" height="150" width="150" src="https://cdn.discordapp.com/attachments/812816331824168963/943642300247072848/Gabriella1.gif">
 </div>
  
  ##
