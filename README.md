@@ -5,8 +5,8 @@
 
 <p align="left">
 🏝 Eu sou de São Paulo, Brasil<br>
-💜 Apaixonada por front-end e design<br>
-🛤 Aprendendo mais sobre back-end<br>
+💙 Apaixonada por back-end<br>
+🛤 Aprendendo mais sobre front-end e design<br>
 📚 Atualmente sou estudante de Desenvolvimento de Software Multiplataforma<br>
 🕹 No meu tempo livre gosto de jogar, assistir séries e anime.
 </p>
